@@ -2,7 +2,7 @@ Question 1
 
 fonction qui fusionne tous les intervalles qui se chevauchent.
 
-Explication : Étant donné que les intervalles [1,3] et [2,6] se chevauchent, fusionnez-les dans [1,6].
+Explication : les intervalles [0,5] et [3,10] se chevauchent, donc ils sont fusionnés dans [0,10].
 
 Tout d'abord, nous trions la tête de l'intervalle.
 
